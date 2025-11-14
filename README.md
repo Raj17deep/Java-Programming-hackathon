@@ -29,7 +29,7 @@ This structure is perfectly suited for **0-1 Breadth-First Search (0-1 BFS)**, w
 
 ### 2. `OptimalArrangement.java`
 
-**Problem:** Given a list of items with labels and weights, find the $K$-th lexicographical arrangement that achieves the *minimum possible total cost*. The cost of an arrangement is $\sum (\text{weight} \times \text{new\_position})$.
+**Problem:** Given a list of items with labels and weights, find the $K$-th lexicographical arrangement that achieves the *minimum possible total cost*.
 
 **Algorithm:**
 The solution involves a combination of a greedy optimization and advanced combinatorics:
